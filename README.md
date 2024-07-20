@@ -1,3 +1,3 @@
 # Machine Learning internship
-This repository contains the python scripts developed during my intership.<br />
-I have added them to show how to apply ML algorithm to real dataset from cleaning and clustering to prediction using clasical artificial neural networks, an comparing its prediction with Gaussian process regresion which provide more insight about confidence intervals, which might be useful as a measure of experimental/numerical uncertainty. 
+This repository contains the Python scripts developed during my internship. <br/>
+I have included them to demonstrate how to apply machine learning algorithms to real datasets, from cleaning and clustering to prediction using classical artificial neural networks. Additionally, I compare these predictions with Gaussian process regression, which provides more insight into confidence intervals and can be useful as a measure of experimental/numerical uncertainty.
